@@ -10,7 +10,7 @@
     "id": "6082924577383b1f5632759d",
     "isoCode": "AX",
     "name": "Aland Islands",
-    "phonecode": "+358-18",
+    "phonecode": "358-18",
     "flag": "🇦🇽"
   },
   {
@@ -31,7 +31,7 @@
     "id": "6082924577383b1f563275a0",
     "isoCode": "AS",
     "name": "American Samoa",
-    "phonecode": "+1-684",
+    "phonecode": "1-684",
     "flag": "🇦🇸"
   },
   {
@@ -52,7 +52,7 @@
     "id": "6082924577383b1f563275a3",
     "isoCode": "AI",
     "name": "Anguilla",
-    "phonecode": "+1-264",
+    "phonecode": "1-264",
     "flag": "🇦🇮"
   },
   {
@@ -66,7 +66,7 @@
     "id": "6082924577383b1f563275a5",
     "isoCode": "AG",
     "name": "Antigua And Barbuda",
-    "phonecode": "+1-268",
+    "phonecode": "1-268",
     "flag": "🇦🇬"
   },
   {
@@ -115,7 +115,7 @@
     "id": "6082924577383b1f563275ac",
     "isoCode": "BS",
     "name": "Bahamas The",
-    "phonecode": "+1-242",
+    "phonecode": "1-242",
     "flag": "🇧🇸"
   },
   {
@@ -136,7 +136,7 @@
     "id": "6082924577383b1f563275af",
     "isoCode": "BB",
     "name": "Barbados",
-    "phonecode": "+1-246",
+    "phonecode": "1-246",
     "flag": "🇧🇧"
   },
   {
@@ -171,7 +171,7 @@
     "id": "6082924577383b1f563275b4",
     "isoCode": "BM",
     "name": "Bermuda",
-    "phonecode": "+1-441",
+    "phonecode": "1-441",
     "flag": "🇧🇲"
   },
   {
@@ -283,7 +283,7 @@
     "id": "6082924577383b1f563275c4",
     "isoCode": "KY",
     "name": "Cayman Islands",
-    "phonecode": "+1-345",
+    "phonecode": "1-345",
     "flag": "🇰🇾"
   },
   {
@@ -423,14 +423,14 @@
     "id": "6082924577383b1f563275d8",
     "isoCode": "DM",
     "name": "Dominica",
-    "phonecode": "+1-767",
+    "phonecode": "1-767",
     "flag": "🇩🇲"
   },
   {
     "id": "6082924577383b1f563275d9",
     "isoCode": "DO",
     "name": "Dominican Republic",
-    "phonecode": "+1-809 and 1-829",
+    "phonecode": "1-809 and 1-829",
     "flag": "🇩🇴"
   },
   {
@@ -605,7 +605,7 @@
     "id": "6082924577383b1f563275f2",
     "isoCode": "GD",
     "name": "Grenada",
-    "phonecode": "+1-473",
+    "phonecode": "1-473",
     "flag": "🇬🇩"
   },
   {
@@ -619,7 +619,7 @@
     "id": "6082924577383b1f563275f4",
     "isoCode": "GU",
     "name": "Guam",
-    "phonecode": "+1-671",
+    "phonecode": "1-671",
     "flag": "🇬🇺"
   },
   {
@@ -633,7 +633,7 @@
     "id": "6082924577383b1f563275f6",
     "isoCode": "GG",
     "name": "Guernsey and Alderney",
-    "phonecode": "+44-1481",
+    "phonecode": "44-1481",
     "flag": "🇬🇬"
   },
   {
@@ -752,7 +752,7 @@
     "id": "6082924577383b1f56327607",
     "isoCode": "JM",
     "name": "Jamaica",
-    "phonecode": "+1-876",
+    "phonecode": "1-876",
     "flag": "🇯🇲"
   },
   {
@@ -766,7 +766,7 @@
     "id": "6082924577383b1f56327609",
     "isoCode": "JE",
     "name": "Jersey",
-    "phonecode": "+44-1534",
+    "phonecode": "44-1534",
     "flag": "🇯🇪"
   },
   {
@@ -948,7 +948,7 @@
     "id": "6082924577383b1f56327623",
     "isoCode": "IM",
     "name": "Man (Isle of)",
-    "phonecode": "+44-1624",
+    "phonecode": "44-1624",
     "flag": "🇮🇲"
   },
   {
@@ -1032,7 +1032,7 @@
     "id": "6082924577383b1f5632762f",
     "isoCode": "MS",
     "name": "Montserrat",
-    "phonecode": "+1-664",
+    "phonecode": "1-664",
     "flag": "🇲🇸"
   },
   {
@@ -1144,7 +1144,7 @@
     "id": "6082924577383b1f5632763f",
     "isoCode": "MP",
     "name": "Northern Mariana Islands",
-    "phonecode": "+1-670",
+    "phonecode": "1-670",
     "flag": "🇲🇵"
   },
   {
@@ -1242,7 +1242,7 @@
     "id": "6082924577383b1f5632764d",
     "isoCode": "PR",
     "name": "Puerto Rico",
-    "phonecode": "+1-787 and 1-939",
+    "phonecode": "1-787 and 1-939",
     "flag": "🇵🇷"
   },
   {
@@ -1291,14 +1291,14 @@
     "id": "6082924577383b1f56327654",
     "isoCode": "KN",
     "name": "Saint Kitts And Nevis",
-    "phonecode": "+1-869",
+    "phonecode": "1-869",
     "flag": "🇰🇳"
   },
   {
     "id": "6082924577383b1f56327655",
     "isoCode": "LC",
     "name": "Saint Lucia",
-    "phonecode": "+1-758",
+    "phonecode": "1-758",
     "flag": "🇱🇨"
   },
   {
@@ -1312,7 +1312,7 @@
     "id": "6082924577383b1f56327657",
     "isoCode": "VC",
     "name": "Saint Vincent And The Grenadines",
-    "phonecode": "+1-784",
+    "phonecode": "1-784",
     "flag": "🇻🇨"
   },
   {
@@ -1557,7 +1557,7 @@
     "id": "6082924577383b1f5632767a",
     "isoCode": "TT",
     "name": "Trinidad And Tobago",
-    "phonecode": "+1-868",
+    "phonecode": "1-868",
     "flag": "🇹🇹"
   },
   {
@@ -1585,7 +1585,7 @@
     "id": "6082924577383b1f5632767e",
     "isoCode": "TC",
     "name": "Turks And Caicos Islands",
-    "phonecode": "+1-649",
+    "phonecode": "1-649",
     "flag": "🇹🇨"
   },
   {
@@ -1683,14 +1683,14 @@
     "id": "6082924577383b1f5632768c",
     "isoCode": "VG",
     "name": "Virgin Islands (British)",
-    "phonecode": "+1-284",
+    "phonecode": "1-284",
     "flag": "🇻🇬"
   },
   {
     "id": "6082924577383b1f5632768d",
     "isoCode": "VI",
     "name": "Virgin Islands (US)",
-    "phonecode": "+1-340",
+    "phonecode": "1-340",
     "flag": "🇻🇮"
   },
   {
