@@ -3,7 +3,7 @@
     <div class="mx-auto md:my-1">
       <div class="container hidden mx-auto md:block">
         <ul
-          class="container flex items-center justify-center mr-8 space-x-4 xl:justify-end 2xl:mr-0 txt-gray"
+          class="container flex items-center justify-center mr-8 space-x-4  xl:justify-end 2xl:mr-0 txt-gray"
         >
           <li class="hidden xl:flex">
             <a class="" href="tel:+18664677360">
@@ -41,7 +41,7 @@
             </a>
 
             <div
-              class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md group-hover:visible"
+              class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md  group-hover:visible"
             >
               <ul class="space-y-2">
                 <li class="">
@@ -106,7 +106,7 @@
             </div>
 
             <div
-              class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md group-hover:visible"
+              class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md  group-hover:visible"
             >
               <ul class="space-y-2">
                 <li class="">
@@ -143,7 +143,7 @@
             </div>
 
             <div
-              class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md group-hover:visible"
+              class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md  group-hover:visible"
             >
               <ul class="space-y-2">
                 <li class="">
@@ -165,7 +165,7 @@
         class="z-20 w-full px-4 bg-white border-t border-b md:px-12 xl:px-0"
       >
         <div
-          class="container sticky top-0 flex items-center justify-between w-full max-w-6xl py-3 mx-auto my-2 2xl:container"
+          class="container sticky top-0 flex items-center justify-between w-full max-w-6xl py-3 mx-auto my-2  2xl:container"
         >
           <!-- {{ scrollPosition }} -->
           <div class="">
@@ -205,7 +205,7 @@
                   </div>
                 </div>
                 <div
-                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md group-hover:visible"
+                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md  group-hover:visible"
                 >
                   <ul class="space-y-2">
                     <li class="">
@@ -250,7 +250,7 @@
                   </div>
                 </div>
                 <div
-                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md group-hover:visible"
+                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md  group-hover:visible"
                 >
                   <ul class="space-y-2">
                     <li class="">
@@ -288,7 +288,7 @@
                 </div>
 
                 <div
-                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md group-hover:visible"
+                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md  group-hover:visible"
                 >
                   <ul class="space-y-2">
                     <li class="">
@@ -340,7 +340,7 @@
                   </div>
                 </div>
                 <div
-                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md group-hover:visible"
+                  class="absolute z-50 invisible p-5 text-left bg-white rounded-lg shadow-md  group-hover:visible"
                 >
                   <ul class="space-y-2 bg-white">
                     <li class="">
@@ -400,7 +400,7 @@
             </div>
             <div class="">
               <button
-                class="px-10 py-2 text-xl font-medium text-white rounded-md shadow bg-orange"
+                class="px-10 py-2 text-xl font-medium text-white rounded-md shadow  bg-orange"
                 role="button"
               >
                 Free trial
@@ -414,7 +414,7 @@
 
       <div class="px-4 md:px-10 xl:px-0">
         <section
-          class="container grid w-full max-w-6xl mx-auto mt-8 text-left xl:grid-cols-2 shdw"
+          class="container grid w-full max-w-6xl mx-auto mt-8 text-left  xl:grid-cols-2 shdw"
         >
           <div class="">
             <div class="mx-auto lg:max-w-xl xl:max-w-md">
@@ -426,18 +426,18 @@
                 <!--  -->
                 <div class="mx-auto my-8 space-y-5 text-base">
                   <div
-                    class="relative border border-gray-400 rounded-md hover:border-blue-300 outline focus-within:border-blue-500"
+                    class="relative border border-gray-400 rounded-md  hover:border-blue-300 outline focus-within:border-blue-500"
                   >
                     <input
                       type="text"
                       name="First name"
                       placeholder=" "
                       v-model="form.firstname"
-                      class="block w-full p-2 bg-transparent appearance-none focus:outline-none"
+                      class="block w-full p-2 bg-transparent appearance-none  focus:outline-none"
                     />
                     <label
                       for="First name"
-                      class="absolute top-0 p-2 duration-300 bg-white txt-gray -z-1 origin-0"
+                      class="absolute top-0 p-2 duration-300 bg-white  txt-gray -z-1 origin-0"
                       >First name</label
                     >
                     <div
@@ -449,18 +449,18 @@
                   </div>
 
                   <div
-                    class="relative border border-gray-400 rounded-md hover:border-blue-300 outline focus-within:border-blue-500"
+                    class="relative border border-gray-400 rounded-md  hover:border-blue-300 outline focus-within:border-blue-500"
                   >
                     <input
                       type="text"
                       name="Last name"
                       placeholder=" "
                       v-model="form.lastname"
-                      class="block w-full p-2 bg-transparent appearance-none focus:outline-none"
+                      class="block w-full p-2 bg-transparent appearance-none  focus:outline-none"
                     />
                     <label
                       for="Last name"
-                      class="absolute top-0 p-2 duration-300 bg-white txt-gray -z-1 origin-0"
+                      class="absolute top-0 p-2 duration-300 bg-white  txt-gray -z-1 origin-0"
                       >Last name</label
                     >
                     <div
@@ -472,18 +472,18 @@
                   </div>
 
                   <div
-                    class="relative border border-gray-400 rounded-md hover:border-blue-300 outline focus-within:border-blue-500"
+                    class="relative border border-gray-400 rounded-md  hover:border-blue-300 outline focus-within:border-blue-500"
                   >
                     <input
                       type="email"
                       name="email"
                       v-model="form.email"
                       placeholder=" "
-                      class="block w-full p-2 bg-transparent appearance-none focus:outline-none"
+                      class="block w-full p-2 bg-transparent appearance-none  focus:outline-none"
                     />
                     <label
                       for="email"
-                      class="absolute top-0 p-2 duration-300 bg-white txt-gray -z-1 origin-0"
+                      class="absolute top-0 p-2 duration-300 bg-white  txt-gray -z-1 origin-0"
                       >Business Email</label
                     >
                     <div
@@ -508,7 +508,7 @@
                   </div>
 
                   <div
-                    class="relative flex items-center border border-gray-400 rounded-md hover:border-blue-300 outline focus-within:border-blue-500"
+                    class="relative flex items-center border border-gray-400 rounded-md  hover:border-blue-300 outline focus-within:border-blue-500"
                   >
                     <div class="" id="">
                       <div
@@ -577,11 +577,11 @@
                       name="Phone number"
                       v-model="form.phoneNum"
                       placeholder=" "
-                      class="block w-full p-2 bg-transparent appearance-none focus:outline-none"
+                      class="block w-full p-2 bg-transparent appearance-none  focus:outline-none"
                     />
                     <label
                       for="Phone number"
-                      class="absolute top-0 p-2 pl-16 duration-300 bg-white txt-gray -z-1 origin-0"
+                      class="absolute top-0 p-2 pl-16 duration-300 bg-white  txt-gray -z-1 origin-0"
                       >Phone number</label
                     >
                     <div
@@ -593,18 +593,18 @@
                   </div>
 
                   <div
-                    class="relative border border-gray-400 rounded-md hover:border-blue-300 outline focus-within:border-blue-500"
+                    class="relative border border-gray-400 rounded-md  hover:border-blue-300 outline focus-within:border-blue-500"
                   >
                     <input
                       type="company"
                       name="company"
                       v-model="form.company"
                       placeholder=" "
-                      class="block w-full p-2 bg-transparent appearance-none focus:outline-none"
+                      class="block w-full p-2 bg-transparent appearance-none  focus:outline-none"
                     />
                     <label
                       for="company"
-                      class="absolute top-0 p-2 duration-300 bg-white txt-gray -z-1 origin-0"
+                      class="absolute top-0 p-2 duration-300 bg-white  txt-gray -z-1 origin-0"
                       >Company name</label
                     >
                     <div
@@ -617,7 +617,7 @@
 
                   <div class="relative">
                     <select
-                      class="w-full p-3 pl-1 bg-white border border-gray-400 rounded-md focus:outline-none txt-gray focus-within:border-blue-500 hover:border-blue-300"
+                      class="w-full p-3 pl-1 bg-white border border-gray-400 rounded-md  focus:outline-none txt-gray focus-within:border-blue-500 hover:border-blue-300"
                       name=""
                       v-model="form.country"
                       id=""
@@ -646,7 +646,7 @@
 
                   <div class="relative">
                     <select
-                      class="w-full p-3 pl-1 bg-white border border-gray-400 rounded-md focus:outline-none txt-gray focus-within:border-blue-500 hover:border-blue-300"
+                      class="w-full p-3 pl-1 bg-white border border-gray-400 rounded-md  focus:outline-none txt-gray focus-within:border-blue-500 hover:border-blue-300"
                       name=""
                       id=""
                       v-model="form.companytype"
@@ -849,7 +849,7 @@
 
       <!-- link sec start-->
       <div
-        class="container grid max-w-6xl grid-cols-2 gap-6 p-8 mx-auto mt-8 space-y-3 text-left xl:gap-0 xl:p-0 xl:grid-cols-1 txt-gray-1"
+        class="container grid max-w-6xl grid-cols-2 gap-6 p-8 mx-auto mt-8 space-y-3 text-left  xl:gap-0 xl:p-0 xl:grid-cols-1 txt-gray-1"
       >
         <div class="rounded-md b-blue">
           <div class="xl:flex xl:items-center">
@@ -1027,7 +1027,7 @@
       <footer class="mb-8">
         <div class="my-4 bg-violet-lg">
           <div
-            class="container items-center justify-between py-6 pl-8 mx-auto md:max-w-6xl xl:pl-0 xl:flex"
+            class="container items-center justify-between py-6 pl-8 mx-auto  md:max-w-6xl xl:pl-0 xl:flex"
           >
             <div class="space-y-3 text-left">
               <div class="text-2xl font-semibold f-title">PRODUCT UPDATES:</div>
@@ -1038,7 +1038,7 @@
                   class="p-2 border rounded-md w-80"
                 />
                 <button
-                  class="px-10 py-2 mt-4 text-white rounded-md md:mt-0 md:ml-2 bg-orange-lg"
+                  class="px-10 py-2 mt-4 text-white rounded-md  md:mt-0 md:ml-2 bg-orange-lg"
                   role="button"
                 >
                   Subscribe
@@ -1079,7 +1079,7 @@
         <!--  -->
         <div class="">
           <div
-            class="container grid max-w-6xl grid-cols-2 gap-6 mx-auto md:grid-cols-4 xl:gap-0 place-items-center xl:flex xl:items-center xl:justify-between"
+            class="container grid max-w-6xl grid-cols-2 gap-6 mx-auto  md:grid-cols-4 xl:gap-0 place-items-center xl:flex xl:items-center xl:justify-between"
           >
             <div class="">
               <img
@@ -1186,23 +1186,7 @@ export default {
       flag: "+1",
       showErrors: false,
       form: JSON.parse(JSON.stringify(form)),
-      // accepted1: false,
-      // accepted2: false,
-      // firstname: "",
-      // lastname: "",
-      // email: "",
-      // phoneNum: "",
-      // countryID: "+1",
-      // company: "",
-      // country: "Country",
-      // companytype: "Company type",
-      // countycodes: [
-      //   {
-      //     flag: "",
-      //     code: "",
-      //     isactive: false,
-      //   },
-      // ],
+
       isloading: false,
       responseRecived: true,
       message: "",
@@ -1281,10 +1265,6 @@ export default {
             console.log(error);
           });
       }
-
-      // console.log("saved", Object.values(this.isvalid).includes(false),this.validEmail );
-
-      // check all isvalid
     },
   },
 
